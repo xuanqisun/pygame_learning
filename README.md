@@ -1,9 +1,13 @@
 # pygame_learning
 
-    I followed the bloggers' lead to write an airplane war game. And this video series in particular has helped me a lot! Thanks for sharing them!
+I've been following a few bloggers to learn how to write game code using pygame, thanks to their sharing！
+  
+The games that have been uploaded so far:
+  1.PLANE WAR ( I will try to add blood deductions later on.)
+  2.SNAKE  (I will beautify the page, design more kinds of fruits and more complex maps.)
 
-    J'ai appris à écrire un jeu sur les guerres d'avions grâce à des blogueurs. Cette série de vidéos en particulier m'a beaucoup aidé! Merci de les partager !
-    
-    我跟着几个博主学习写了个飞机大战游戏, 感谢他们的分享！尤其是这个系列的视频，对我帮助非常大。
+I would appreciate it if you would contact me for suggestions for changes!
 
-Referred to in: https://www.bilibili.com/video/BV1xM4y1A7gh?p=1&vd_source=69f0435c95ab69bded11699706d1841d
+Thank you for the following videos, they are very helpful：
+https://www.bilibili.com/video/BV1xM4y1A7gh?p=1&vd_source=69f0435c95ab69bded11699706d1841d
+https://www.youtube.com/watch?v=QFvqStqPCRU
